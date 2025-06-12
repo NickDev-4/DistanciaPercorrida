@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DistanciaPercorrida/1.0.0": {
+        "runtime": {
+          "DistanciaPercorrida.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DistanciaPercorrida/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
