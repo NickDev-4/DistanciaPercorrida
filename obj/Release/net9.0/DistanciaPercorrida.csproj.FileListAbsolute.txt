@@ -1,0 +1,15 @@
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\bin\Release\net9.0\DistanciaPercorrida.exe
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\bin\Release\net9.0\DistanciaPercorrida.deps.json
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\bin\Release\net9.0\DistanciaPercorrida.runtimeconfig.json
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\bin\Release\net9.0\DistanciaPercorrida.dll
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\bin\Release\net9.0\DistanciaPercorrida.pdb
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\obj\Release\net9.0\DistanciaPercorrida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\obj\Release\net9.0\DistanciaPercorrida.AssemblyInfoInputs.cache
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\obj\Release\net9.0\DistanciaPercorrida.AssemblyInfo.cs
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\obj\Release\net9.0\DistanciaPercorrida.csproj.CoreCompileInputs.cache
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\obj\Release\net9.0\DistanciaPercorrida.sourcelink.json
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\obj\Release\net9.0\DistanciaPercorrida.dll
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\obj\Release\net9.0\refint\DistanciaPercorrida.dll
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\obj\Release\net9.0\DistanciaPercorrida.pdb
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\obj\Release\net9.0\DistanciaPercorrida.genruntimeconfig.cache
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\obj\Release\net9.0\ref\DistanciaPercorrida.dll

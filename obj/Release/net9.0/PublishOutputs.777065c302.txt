@@ -1,0 +1,5 @@
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\bin\Release\net9.0\publish\DistanciaPercorrida.exe
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\bin\Release\net9.0\publish\DistanciaPercorrida.dll
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\bin\Release\net9.0\publish\DistanciaPercorrida.deps.json
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\bin\Release\net9.0\publish\DistanciaPercorrida.runtimeconfig.json
+C:\Users\nicky\Desktop\FATEC\1° Semestre\ALP 1\ProjetoFinal\DistanciaPercorrida\bin\Release\net9.0\publish\DistanciaPercorrida.pdb
