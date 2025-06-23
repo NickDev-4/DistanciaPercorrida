@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicky\\Desktop\\FATEC\\ALP 1\\ProjetoFinal\\DistanciaPercorrida\\DistanciaPercorrida.csproj",
+      "projectUniqueName": "C:\\Users\\nicky\\Desktop\\FATEC\\1° Semestre\\ALP 1\\ProjetoFinal\\DistanciaPercorrida\\DistanciaPercorrida.csproj",
       "projectName": "DistanciaPercorrida",
-      "projectPath": "C:\\Users\\nicky\\Desktop\\FATEC\\ALP 1\\ProjetoFinal\\DistanciaPercorrida\\DistanciaPercorrida.csproj",
+      "projectPath": "C:\\Users\\nicky\\Desktop\\FATEC\\1° Semestre\\ALP 1\\ProjetoFinal\\DistanciaPercorrida\\DistanciaPercorrida.csproj",
       "packagesPath": "C:\\Users\\nicky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicky\\Desktop\\FATEC\\ALP 1\\ProjetoFinal\\DistanciaPercorrida\\obj\\",
+      "outputPath": "C:\\Users\\nicky\\Desktop\\FATEC\\1° Semestre\\ALP 1\\ProjetoFinal\\DistanciaPercorrida\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicky\\AppData\\Roaming\\NuGet\\NuGet.Config"
