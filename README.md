@@ -22,17 +22,18 @@ A soma total das distâncias é de 1745 km
 
 ## _Screenshot_
 
+![Tela do Programa](Captura%20de%20tela.png)
 
 ## _Download_
 
 Baixe o arquivo abaixo e descompacte na pasta desejada.
 
-📁  Download do arquivo .zip
+[📁 Download do arquivo .zip](dist/DistanciaPercorrida.zip)
 
 Execute ultilizado o comando:
 
 ```
-
+dotnet DistanciaPercorrida.dll
 ```
 
 Ou, se você estiver no Windons, pode dar um duplo-clique no ícone do programa.
