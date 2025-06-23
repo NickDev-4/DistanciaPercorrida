@@ -1,7 +1,4 @@
-﻿
-Console.Clear();
-
-int soma = 0;
+﻿int soma = 0;
 
 string[] cidades = { "Belo Horizonte", "Rio de Janeiro", "São Paulo", "Vitória" };
 int[,] distancias = {
@@ -53,4 +50,3 @@ for (int i = 0; i < cidadesPercurso.Count - 1; i++)
 Console.WriteLine("\nA soma total das distâncias é de {0} km", soma);
 
 Console.ReadKey();
-Console.Clear();
