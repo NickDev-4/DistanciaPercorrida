@@ -11,7 +11,7 @@ int[,] distancias = {
     { 524, 521, 882, 0 }  // Vitória
 };
 
-Console.WriteLine("--- Distância Percorrida ---\n");
+Console.WriteLine("*** Distância Percorrida ***\n");
 Console.WriteLine("0 = Belo Horizonte\n1 = Rio de Janeiro\n2 = São Paulo\n3 = Vitória");
 
 Console.Write("\nDigite o percurso (ex.: 1,2,0,1): ");
